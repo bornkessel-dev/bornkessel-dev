@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "bornkessel-one-v2",
+    "public": "website",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
