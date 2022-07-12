@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "semesterabschlussparty",
+    "public": "website",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
